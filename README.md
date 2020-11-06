@@ -2,7 +2,7 @@
 😀 This is RickWayne!
 - 🔭 I’m currently the chairman of MSC@CQU
 - 🌱 I’m currently junior in CQU
-- 📫 How to reach me: [Ricky's Clubhouse](https://rickwayne1125.cn)
+- 📫 How to reach me: [Ricky's Clubhouse](https://rickwayne.cn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickWayne1125&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
