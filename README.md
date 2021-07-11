@@ -1,9 +1,10 @@
 ### Hi there 👋
 😀 This is RickWayne!
-- 🔭 I was the chairman of MSC@CQU between 2020 and 2021z
+- 🔭 I was the chairman of MSC@CQU between 2020 and 2021
 - 🌱 I'm currently senior in CQU
 - ⚡ I'm preparing GRE & TOEFL tests
-- 📫 How to reach me: [Ricky's Clubhouse](https://rickwayne.cn)
+- 📫 How to reach me: rickwayne1125@qq.com
+- 👯 My wesite: [Ricky's Clubhouse](https://rickwayne.cn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickWayne1125&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
