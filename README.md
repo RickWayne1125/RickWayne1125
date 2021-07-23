@@ -1,10 +1,12 @@
 ### Hi there 👋
 😀 This is RickWayne!
-- 🔭 I was the chairman of MSC@CQU between 2020 and 2021
-- 🌱 I'm currently senior in CQU
-- ⚡ I'm preparing GRE & TOEFL tests
+- 🤵 I was the chairman of MSC@CQU between 2020 and 2021
+- 🏫 I'm currently senior in CQU
+- 📝 I'm preparing for GRE & TOEFL tests
+- 👨‍🎓 I'm looking for a graduate program abroad (mostly in US?)
+- 👨‍💻 I'm having an internship in [IVIP Lab@THU](https://ivip-tsinghua.github.io/iViP-Homepage/)
 - 📫 How to reach me: rickwayne1125@qq.com
-- 👯 My wesite: [Ricky's Clubhouse](https://rickwayne.cn)
+- 🕸️ My wesite: [Ricky's Clubhouse](https://rickwayne.cn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickWayne1125&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
