@@ -1,6 +1,6 @@
 ### Hi there 👋
 😀 This is RickWayne!
-- 🤵 I was the chairman of MSC@CQU between 2020 and 2021
+- 🤵 I was the chairman of [MSC@CQU](https://cqu.microsoftstudent.club/) between 2020 and 2021
 - 🏫 I'm currently senior in CQU
 - 📝 I'm preparing for GRE & TOEFL tests
 - 👨‍🎓 I'm looking for a graduate program abroad (mostly in US?)
