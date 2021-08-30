@@ -13,6 +13,7 @@
 - 📝 I'm preparing for GRE & TOEFL tests
 - 👨‍🎓 I'm looking for a graduate program abroad (mostly in US?)
 - 👨‍💻 I'm having an internship in [IVIP Lab@THU](https://ivip-tsinghua.github.io/iViP-Homepage/)
+- 📷 I'm building a personal [gallery](https://rickwayne1125.github.io/gallery/)
 
 ## Contact
 - 📫 How to reach me: rickwayne1125@qq.com
