@@ -17,7 +17,7 @@
 
 ## Contact
 - 📫 How to reach me: rickwayne1125@qq.com
-- 🕸️ My wesite: [Ricky's Clubhouse](https://rickwayne.cn)
+- 🕸️ My wesite: [Ricky's Clubhouse(Sorry this website is still being migrated to GitHub Pages)](https://rickwayne.cn)
 
 ## Languages
 <!-- ![C++](https://img.shields.io/badge/C++-F15B2A?style=flat-square&logo=c%2b%2b)
