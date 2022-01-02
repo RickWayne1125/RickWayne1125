@@ -17,15 +17,16 @@
 
 ## Contact
 - 📫 How to reach me: rickwayne1125@qq.com
-- 🕸️ My wesite: [Ricky's Clubhouse](https://rickwayne.cn)(Sorry this website is still being migrated to GitHub Pages)
+- 🕸️ My website: [Ricky's Clubhouse](https://rickwayne.cn)(Sorry this website is still being migrated to GitHub Pages)
 
 ## Languages
-<!-- ![C++](https://img.shields.io/badge/C++-F15B2A?style=flat-square&logo=c%2b%2b)
-![Python](https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white) -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickWayne1125&layout=compact"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=RickWayne1125&show_icons=true&bg_color=30,191970,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true&hide=prs,issues"></img>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickWayne1125&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![RickWayne's github stats](https://github-readme-stats.vercel.app/api?username=RickWayne1125&show_icons=true&bg_color=30,191970,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true&hide=prs,issues)
+<!-- <img src="https://img.shields.io/badge/C++-F15B2A?style=flat-square&logo=c%2b%2b"></img>
+<img src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white"></img> -->
 
 <!--
 **RickWayne1125/RickWayne1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
