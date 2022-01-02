@@ -1,7 +1,7 @@
 # Hi there 👋
 😀 This is Rick Wayne!
 <p align="center">
-  <a href="https://open.spotify.com/user/eruvjz8srgxwl3vy58x65udys" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/user/eruvjz8srgxwl3vy58x65udys" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=eruvjz8srgxwl3vy58x65udys&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RickW26088769)
