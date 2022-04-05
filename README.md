@@ -14,6 +14,7 @@
 - 👨‍🎓 I'm looking for a graduate program abroad (mostly in US?)
 - 👨‍💻 I'm having an internship in [IVIP Lab@THU](https://ivip-tsinghua.github.io/iViP-Homepage/)
 - 📷 I'm building a personal [gallery](https://rickwayne1125.github.io/gallery/)
+- 📔 My telegram channel: https://t.me/WayneTech1125
 
 ## Contact
 - 📫 How to reach me: rickwayne1125@qq.com
