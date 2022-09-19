@@ -1,23 +1,20 @@
 # Hi there 👋
 😀 This is Rick Wayne!
-<p align="center">
-  <a href="https://open.spotify.com/user/eruvjz8srgxwl3vy58x65udys" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=eruvjz8srgxwl3vy58x65udys&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350"/></a>
-</p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31elm6whsflt6culxw7vomymcide&cover_image=true&theme=default&bar_color=6fa5ec&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31elm6whsflt6culxw7vomymcide&redirect=true)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RickW26088769)
 [![Email Badge](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rickwayne1125@qq.com)
 [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-lightgrey?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rickwayne)
 ## About Me
-- 🤵 I was the chairman of [MSC@CQU](https://cqu.microsoftstudent.club/) between 2020 and 2021
-- 🏫 I'm currently senior in CQU
-- 📝 I'm preparing for GRE & TOEFL tests
-- 👨‍🎓 I'm looking for a graduate program abroad (mostly in US?)
-- 👨‍💻 I'm having an internship in [IVIP Lab@THU](https://ivip-tsinghua.github.io/iViP-Homepage/)
+- 🏫 I'm currently at MSCS program of [Boston University, GRS](https://www.bu.edu/cas/)
 - 📷 I'm building a personal [gallery](https://rickwayne1125.github.io/gallery/)
 - 📔 My telegram channel: https://t.me/WayneTech1125
+- 👨‍💻 I was an intern in [IVIP Lab@THU](https://ivip-tsinghua.github.io/iViP-Homepage/) in 2021
+- 🤵 I was the chairman of [MSC@CQU](https://cqu.microsoftstudent.club/) between 2020 and 2021
 
 ## Contact
-- 📫 How to reach me: rickwayne1125@qq.com
+- 📫 How to reach me: richardwei1999@outlook.com
 - 🕸️ My website: [Ricky's Clubhouse](https://rickwayne.cn)(Sorry this website is still being migrated to GitHub Pages)
 
 ## Languages
