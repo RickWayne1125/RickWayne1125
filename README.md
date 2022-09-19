@@ -4,7 +4,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31elm6whsflt6culxw7vomymcide&cover_image=true&theme=default&bar_color=6fa5ec&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31elm6whsflt6culxw7vomymcide&redirect=true)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RickW26088769)
-[![Email Badge](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rickwayne1125@qq.com)
+[![Email Badge](https://img.shields.io/badge/-OUTLOOK-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:richardwei1999@outlook.com)
 [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-lightgrey?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rickwayne)
 ## About Me
 - 🏫 I'm currently at MSCS program of [Boston University, GRS](https://www.bu.edu/cas/)
