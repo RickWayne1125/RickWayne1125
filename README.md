@@ -15,7 +15,7 @@
 
 ## Contact
 - 📫 How to reach me: richardwei1999@outlook.com
-- 🕸️ My website: [Ricky's Clubhouse](https://rickwayne.cn)(Sorry this website is still being migrated to GitHub Pages)
+- 🕸️ My website: [Ricky's Clubhouse](https://me.waynetech.site)(Sorry this website is still being migrated to GitHub Pages)
 
 ## Languages
 <p>
