@@ -1,5 +1,5 @@
 # Hi there 👋
-😀 This is Rick Wayne!
+😀 This is Rick Wayne | Rui (Richard) Wei!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31elm6whsflt6culxw7vomymcide&cover_image=true&theme=default&bar_color=6fa5ec&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31elm6whsflt6culxw7vomymcide&redirect=true)
 
