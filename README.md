@@ -2,21 +2,15 @@
 😀 This is Rick Wayne | Rui (Richard) Wei!
 > If you are confused about my names, just call me Ricky plz
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31elm6whsflt6culxw7vomymcide&cover_image=true&theme=default&bar_color=6fa5ec&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31elm6whsflt6culxw7vomymcide&redirect=true)
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RickW26088769)
-[![Email Badge](https://img.shields.io/badge/-OUTLOOK-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:richardwei1999@outlook.com)
-[![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-lightgrey?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rickwayne)
 ## About Me
-- 🏫 I'm currently at MSCS program of [Boston University, GRS](https://www.bu.edu/cas/)
-- 📷 I'm building a personal [gallery](https://rickwayne1125.github.io/gallery/)
-- 📔 My telegram channel: https://t.me/WayneTech1125
+- 🔬 I'm currently a PhD student of [IntelliSys Lab at Stevens](https://intellisys.haow.us)
+- 🏫 I got my master's degree from [Boston University, GRS](https://www.bu.edu/cas/)
 - 👨‍💻 I was an intern in [IVIP Lab@THU](https://ivip-tsinghua.github.io/iViP-Homepage/) in 2021
 - 🤵 I was the chairman of [MSC@CQU](https://cqu.microsoftstudent.club/) between 2020 and 2021
 
 ## Contact
 - 📫 How to reach me: richardwei1999@outlook.com
-- 🕸️ My website: [Ricky's Clubhouse](https://me.waynetech.site)(Sorry this website is still being migrated to GitHub Pages)
+- 🕸️ My website: [Ricky's Clubhouse](https://me.waynetech.site)
 
 ## Languages
 <p>
